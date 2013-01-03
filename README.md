@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-lein spec -a -f growl
+lein spec -a -f tmux
 ```
 
 ## Installation
