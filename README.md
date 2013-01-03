@@ -8,7 +8,7 @@ lein spec -a -f tmux
 
 ## Installation
 
-Just make sure `speclj-tmux` is somewhere in your dependencies. I put it here:
+Use [speclj](http://speclj.com), and make sure `speclj-tmux` is somewhere in your dependencies. I put it here:
 
 ```clj
 :profiles {:dev {:dependencies [[speclj-tmux "1.0.0"]]}}
