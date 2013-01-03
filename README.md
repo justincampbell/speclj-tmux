@@ -1,5 +1,11 @@
 # speclj-tmux
 
+## Usage
+
+```
+lein spec -a -f growl
+```
+
 ## Installation
 
 Just make sure `speclj-tmux` is somewhere in your dependencies. I put it here:
@@ -18,12 +24,6 @@ Here's an entire `project.clj`:
   :test-paths ["spec/"]
   :profiles {:dev {:dependencies [[speclj "2.5.0"]
                                   [speclj-tmux "1.0.0"]}})
-```
-
-## Usage
-
-```
-lein spec -a -f growl
 ```
 
 ## Thanks
