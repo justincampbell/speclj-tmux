@@ -1,4 +1,4 @@
-# speclj-tmux
+# ![speclj-tmux](http://justincampbell.s3.amazonaws.com/speclj-tmux.png)
 
 ## Usage
 
